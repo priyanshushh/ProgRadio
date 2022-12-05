@@ -4,8 +4,8 @@ import axios from "axios";
 const options = {
   method: "GET",
   headers: {
-    "X-RapidAPI-Key": process.env.XRAPIDKEY,
-    "X-RapidAPI-Host": process.env.XRAPIDHOST,
+    "X-RapidAPI-Key": "c5a0fe9a22msh586ff674620674fp113cddjsn475073961545",
+    "X-RapidAPI-Host": "shazam-core.p.rapidapi.co",
   },
 };
 const useFetch = (url) => {
