@@ -4,8 +4,8 @@ import axios from "axios";
 const options = {
   method: "GET",
   headers: {
-    "X-RapidAPI-Key": process.env.xrapidkey,
-    "X-RapidAPI-Host": process.env.xrapidhost,
+    "X-RapidAPI-Key": process.env.XRAPIDKEY,
+    "X-RapidAPI-Host": process.env.XRAPIDHOST,
   },
 };
 const useFetch = (url) => {
