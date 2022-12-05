@@ -5,8 +5,8 @@ This is a infinite radio app that I created just for fun.Basically it plays some
 
 There were things that I learnt from this project such as-
 
- * Creating custion hook in react.
- * Using RapidAPI(this if the firs time i used rapid api service with its vs code extension
+ * Creating custom hook in react.
+ * Using RapidAPI(this if the firs time i used rapid api service with its vs code extension).
  * Playing with audio in reactjs.
  
 
