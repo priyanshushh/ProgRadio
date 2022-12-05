@@ -1,4 +1,4 @@
-#PROGSRADIO
+# PROGSRADIO
 
 This is a infinite radio app that I created just for fun.Basically it plays some songs(which i got from rapidapi's shazam core api) on infinite loop.This whole app is built with ReactJS.
 
